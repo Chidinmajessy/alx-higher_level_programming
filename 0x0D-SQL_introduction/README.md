@@ -1,0 +1,2 @@
+solutions to sql intro
+
